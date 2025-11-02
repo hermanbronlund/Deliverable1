@@ -1,23 +1,20 @@
 import turtleplotlib as tpl
 import matplotlib.pyplot as plt  #importerer disse slik at hovedprogrammet virker med turtleplotlib og matplotlib. 
 
-
-def dragon(turtle, depth):
-    turtle.forward(10)             # F
-    dragonX(turtle, depth-1)       # X
     
 def dragonX(turtle, depth, color):
     if depth > 0:                  # X ->
-        dragonX(turtle, depth-1, color)   #       X         
+        dragonX(turtle, depth-1, color)   #       X  
+        turtle.color(color)  #Legger til denne linjen for å kunne velge farger.        
         turtle.left(90)            #         +
-        dragonY(turtle, depth-1)   #           Y
+        dragonY(turtle, depth-1, color)   #           Y
         turtle.forward(10)         #             F
-        turtle.color(color) #legger til denne linjen for å velge farger.
+        
         
 def dragonY(turtle, depth, color):
     if depth > 0:                  # Y ->
-        turtle.forward(10)         #       F
         turtle.color(color)  #Legger til denne linjen for å kunne velge farger. 
+        turtle.forward(10)         #       F
         dragonX(turtle, depth-1, color)   #         X
         turtle.right(90)           #           -
         dragonY(turtle, depth-1, color)   #             Y

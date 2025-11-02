@@ -15,3 +15,6 @@ Lager hovedprogrammet.
 La til fargeparametere. 
 Går videre og starter med klasse A. 
 Legger til kode slik at vinduet med tegningen vises når koden kjøres. 
+Flere feil avdekket, jobber med å rette disse. 
+Noen feil rettet, det manglet et argument i koden. 
+DragonX kommer opp som den skal. Begynner med DragonY. 
