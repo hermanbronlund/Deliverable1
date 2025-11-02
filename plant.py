@@ -33,7 +33,7 @@ t = tpl.Turtle(fig, interactive=False)
 
 depth = 3 #Starter med lav dybde for å teste. 
 
-fractal_plant(t, depth, seq=1) #Kaller på funksjonen.
+fractal_plant(t, depth, seq=) #Kaller på funksjonen.
 
 
 plt.show()
