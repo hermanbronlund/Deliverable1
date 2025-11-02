@@ -25,4 +25,5 @@ Oppgave 3 virker og er ferdig.
 
 Oppgave 4:
 Henter inn koden fra canvas. 
-Setter inn hovedprogrammet. 
+Setter inn hovedprogrammet.
+La til en if for basisteget definisjonen.  
