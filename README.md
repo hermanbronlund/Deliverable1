@@ -30,3 +30,4 @@ La til en if for basisteget definisjonen.
 Legger til en "else". 
 kallet på funksjonen, og satte opp kommandoene for at planten skal vises. Ikke noe som kom frem i skjermen. Bygger videre på koden. 
 Definert alle elif-stegene, og laget en stack for lagring av posisjoner. 
+La inn det siste for å gjøre ferdig koden. 
