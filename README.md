@@ -1,0 +1,2 @@
+Modifisert koden slik at den virker, den virket ikke da jeg kun brukte det som kom fra canvas, slik det stod i instruksen. 
+Får riktig stjerne, og begynner derfor med å sette opp resten av koden, slik som oppgaven vil. 
