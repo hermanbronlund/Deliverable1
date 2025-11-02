@@ -19,3 +19,4 @@ Flere feil avdekket, jobber med å rette disse.
 Noen feil rettet, det manglet et argument i koden. 
 DragonX kommer opp som den skal. Begynner med DragonY. 
 Bytter navn til sierpinsky. 
+Gjort om koden slik at den lager en sierpinskytrekant i stedet for en drage(dragon). 
