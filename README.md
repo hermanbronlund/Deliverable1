@@ -27,3 +27,5 @@ Oppgave 4:
 Henter inn koden fra canvas. 
 Setter inn hovedprogrammet.
 La til en if for basisteget definisjonen.  
+Legger til en "else". 
+kallet på funksjonen, og satte opp kommandoene for at planten skal vises. Ikke noe som kom frem i skjermen. Bygger videre på koden. 
