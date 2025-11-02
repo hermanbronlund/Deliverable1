@@ -20,3 +20,9 @@ Noen feil rettet, det manglet et argument i koden.
 DragonX kommer opp som den skal. Begynner med DragonY. 
 Bytter navn til sierpinsky. 
 Gjort om koden slik at den lager en sierpinskytrekant i stedet for en drage(dragon). 
+La til Farge B. 
+Oppgave 3 virker og er ferdig. 
+
+Oppgave 4:
+Henter inn koden fra canvas. 
+Setter inn hovedprogrammet. 
