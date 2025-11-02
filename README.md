@@ -10,3 +10,8 @@ Måtte rette på noen linjer som ga feilmelding, da disse ikke fantes i turtlepl
 Oppgave 3: 
 Hentet inn kode fra canvas. 
 Endret kode, og la til kode slik at fargene for A og B endres. 
+Importerer Matplotlib og turtleplotlib. 
+Lager hovedprogrammet. 
+La til fargeparametere. 
+Går videre og starter med klasse A. 
+Legger til kode slik at vinduet med tegningen vises når koden kjøres. 
