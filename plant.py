@@ -1,5 +1,8 @@
 import turtleplotlib as tpl
-import matplotlib.pyplot as plt  # Importerer disse slik at hovedprogrammet virker med turtleplotlib og matplotlib.
+
+import matplotlib
+matplotlib.use('TkAgg')
+import matplotlib.pyplot as plt # Importerer disse slik at hovedprogrammet virker med turtleplotlib og matplotlib.
 
 # Omskrivningsregel for fraktalplanten i form av ordbok: F utvides til komplisert grenstruktur.
 rule = {
@@ -55,7 +58,7 @@ fig = plt.figure()
 t = tpl.Turtle(fig, interactive=False)
 
 start_seq = "F"  # Startsekvens
-depth = 3        # Dybde: hvor mange ganger reglene omskrives og tegnes detaljert
+depth = 2       # Dybde: hvor mange ganger reglene omskrives og tegnes detaljert
 
 fractal_plant(t, depth, start_seq)  # Start rekursiv tegning
 
